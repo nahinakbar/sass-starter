@@ -15,7 +15,7 @@ Then, clone this repo to your current directory
 
 `git clone git@github.com:nahinakbar/sass-starter.git . && rm -rf .git`
 
-After you are done received the initial files,
+After you are done receiving the initial files,
 
 `npm install`
 
